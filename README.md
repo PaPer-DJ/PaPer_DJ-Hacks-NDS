@@ -16,9 +16,10 @@ FIRMWARES R4 DS:
 (Tarjetas aún con soporte y al día)
 * https://gbatemp.net/threads/all-firmwares-for-the-r4.193749/
 
+
 INFO - FIRMWARE & SOFT M3 Sakura:
 (Tarjetas M3 ya NO RECOMENDABLES, sin soporte desde 2011)
 * https://gbatemp.net/threads/the-m3-sakura-faq.89197/
 
-FAQ M3 Sakura (En Español)
-* https://www.elotrolado.net/hilo_faq-m3sakura-1-49a-x-3rd-m3kaura-actualizado-19-02-2011_1036718
+  FAQ M3 Sakura (En Español)
+  * https://www.elotrolado.net/hilo_faq-m3sakura-1-49a-x-3rd-m3kaura-actualizado-19-02-2011_1036718
