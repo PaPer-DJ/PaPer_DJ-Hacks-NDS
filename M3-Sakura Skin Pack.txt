@@ -1,0 +1,87 @@
+https://gbatemp.net/threads/the-m3-sakura-faq.89197/#sknen
+
+M3 Sakura Skin Pack 1.0
+FileTrip » NDS Downloads » Skins » G6 & M3 Skins
+
+
+This is a compilation of every skin available on the M3 Sakura FAQ. This skin pack does not include all the available wallpapers, only the skins. You may find wallpapers at the following URLs:
+http://www.megaupload.com/?d=NAJ2XHOZ
+http://gbatemp.net/index.php?showtopic=137545
+
+Please do not alter the contents of this archive. Do not unpack, delete all the readme files, sound effects, source files, etc., then repack just the skins and redistribute them, as it goes against the wishes of several of the skin creators. Please respect their wishes to keep their skin archives intact. You may alter the contents of this archive any way you want for your personal use only. 
+
+This skin archive is from the M3 Sakura FAQ at GBAtemp.net: 
+http://bit.ly/M3Sakura
+
+22 December, 2009
+===================================
+M3 Sakura Skin Index
+===================================
+[2461]default - gangsterboi
+[2568]Sakura_DS_OS_0.8 - wabsta
+[2575]Paradise - strata8
+[2580]M3_Vista - gangsterboi
+[2598]ChaosBlack - Chaos45
+[2605]Exultation_v2 - Geo411m
+[2630]MoonlightWhite - Chaos45
+[2708]Sakura_Aero_1.2 - strata8
+[2740]Aero___Fish_School - strata8
+[2747]Aero___Ultimate - strata8
+[2823]Sakura_GITS - EeeKay
+[2831]area_o4.2 - strata8
+[2942]Sakura_GITSDark - EeeKay
+[3008]Sakura_Clearlooks - strata8
+[3084]Sakuratronic_Final - Toni Plutonij
+[3216]Death_Magnetic_Sakura_V1.0 - metalliguy
+[3238]lulzpirate - RyukeDragon
+[3246]Smash_Bros_Brawl_Sakura_V1.0 - metalliguy
+[3262]Midniight_Flower_M3_Sakura - metron
+[3270]Sakura_Wolf - metron
+[3271]Black_NDS_Firmware - metron
+[3314]White_NDS_Firmware - metron
+[3328]Pokemon_Master - metron
+[3341]tragedy099 - RyukeDragon
+[3357]DD__Dawn - metron
+[3362]shadow4.67 - lilkerv90210
+[3420]Princess_of_Hoenn_V2 - metron
+[3421]Tomboyish_Mermaid - metron
+[3422]Pokemon_Platinum - metron
+[3478]Mother_3 - metron
+[3542]Mother__Earthbound - metron
+[3733]Blue_Fluff - metron
+[3931]Sakura_Dark_Beam_V1.2 - metron
+[3948]DontPanicMarvin - VatoLoco
+[3968]SAKURAtemp - metron
+[4201]GBS.zip - metron
+[4367]AAA - darknick
+[4549]PSPsakuraskin - metron
+[4656]Wii - metron
+[4908]Moonshell_BETA_2_5 - metron
+[4930]Vista_Rus_1.34 (Russian) - mc_B3oWoLF
+[4950]M3Sakura_Moonshell - metron & dohclude
+[4951]default_green - dylan2228
+[4959]VistaStyle___Grass - Axel-MaV
+[4960]VistaStyle___Aurora - Axel-MaV
+[4961]Sakura_Black_and_White - dohclude
+[4992]PM3Sakura - Mathias Mahling & Lathlas
+[4993]Doki_Doki_Majo_Shinpan - metron
+[5009]Ubuntu_Sakura - powered_by_tux
+[5085]Sakura_DSOne_Ver1.0 - KH-Roms
+[5423]MadiColor - metron
+[5776]E_NSakura - gangsterboi
+[5818]_Skin__M3Sakura_Faith (Spanish) - Nagaroth
+[5901]Fade_Away - metron
+[6411]Floral_Attentive - DesuChan
+[6412]RevenG - DesuChan - 
+[7126]BlackAndRed - Magmorph
+[8737]-GOW - KingVamp
+[8870]-gta4 - KingVamp
+[8985]-Castlevania Sakura Skin - Dark Justice
+[9057]-Pure Sakura - Jaylen
+M3Sakura_Ver110_Aqua.skn - M3 Sakura
+M3Sakura_Ver110_Buccaneer.skn - M3 Sakura
+M3Sakura_Ver110_Dashboard.skn - M3 Sakura
+M3Sakura_Ver110_Default.skn - M3 Sakura
+M3Sakura_Ver110_SakuraBlue.skn - M3 Sakura
+M3Sakura_Ver110_SIMPLE.skn - M3 Sakura
+VistaDX_1.1f - Aphexdash
