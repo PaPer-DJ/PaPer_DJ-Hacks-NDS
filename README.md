@@ -17,6 +17,7 @@ FIRMWARES R4 DS:
 * https://gbatemp.net/threads/all-firmwares-for-the-r4.193749/
 
 
+
 INFO - FIRMWARE & SOFT M3 Sakura:
 (Tarjetas M3 ya NO RECOMENDABLES, sin soporte desde 2011)
 * https://gbatemp.net/threads/the-m3-sakura-faq.89197/
