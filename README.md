@@ -22,9 +22,9 @@ INFO & DOWNLOADS R4DS:
 FIRMWARES R4 DS:
 -
 (Tarjetas aún con soporte y al día)
-* https://gbatemp.net/threads/all-firmwares-for-the-r4.193749/
-
 * http://www.r4i-sdhc.com/downloade.asp
+-
+* https://gbatemp.net/threads/all-firmwares-for-the-r4.193749/
 
 ---------------------------------------------------------
 INFO - FIRMWARE & SOFT M3 Sakura:
