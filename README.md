@@ -11,12 +11,12 @@ INFO & DOWNLOADS
 * https://gbatemp.net/forums/nds-flashcarts-and-accessories.40/
 * https://gbatemp.net/threads/essentials-homebrew.258689/
 * https://gbatemp.net/forums/nds-emulation-and-homebrew.177/
-
+---------------------------------------------------------
 FIRMWARES R4 DS:
 (Tarjetas aún con soporte y al día)
 * https://gbatemp.net/threads/all-firmwares-for-the-r4.193749/
 
-
+---------------------------------------------------------
 INFO - FIRMWARE & SOFT M3 Sakura:
 (Tarjetas M3 ya NO RECOMENDABLES, sin soporte desde 2011)
 * https://gbatemp.net/threads/the-m3-sakura-faq.89197/
